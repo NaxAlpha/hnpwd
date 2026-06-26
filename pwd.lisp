@@ -737,11 +737,11 @@
   :bio "Itinerant software engineer.  Likes to raise children, read and memorize things.")
 
  (:name "Nauman Mustafa"
-  :site "https://nauman.im"
+  :site "https://nauman.im/"
   :blog "https://nauman.im/writing/"
   :feed "https://nauman.im/rss.xml"
   :hnuid "naxalpha"
-  :bio "AI Engineer. Explores topics around ML, vibe coding and tech")
+  :bio "AI engineer.  Explores topics around ML, vibe coding and tech.")
  
  (:name "Neil Kakkar"
   :site "https://neilkakkar.com/"
